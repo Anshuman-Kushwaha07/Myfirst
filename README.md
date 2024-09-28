@@ -1,4 +1,4 @@
 # Myfirst
 My first git repository
 <br>
-author Anshuman Kushwaha
+author Anshuman Kumar
